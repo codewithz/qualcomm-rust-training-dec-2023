@@ -1,0 +1,1 @@
+E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\rust-data-types\target\debug\rust-data-types.exe: E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\rust-data-types\src\main.rs
