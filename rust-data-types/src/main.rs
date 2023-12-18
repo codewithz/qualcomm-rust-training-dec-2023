@@ -119,14 +119,14 @@ fn main() {
         temperature:TemperatureCategory::HOT(Some(103.2))
 
      };
-    println!("My Coffee with Temp {:?}",coffee_with_temperature);
-    //  Combine Structs 
-
-    let combined=Coffee{
-        id:2000,
-        ..coffee_with_temperature 
-    };
-
+     println!("My Coffee with Temp {:?}",coffee_with_temperature);
+     //  Combine Structs 
+     
+     let combined=Coffee{
+         id:2000,
+         ..coffee_with_temperature 
+        };
+        
      println!("My Coffee {:?}",my_coffee);
     
      println!("My Coffee Combined {:?}",combined);
