@@ -35,7 +35,7 @@ fn main() {
 	greeting.pop();
 	println!("{}\n", greeting);
 
-	greeting.push('y'); // Note the single quotes for a char
+	greeting.push('b'); // Note the single quotes for a char
 	println!("{}\n", greeting);
 
 	// Inserting characters by index
@@ -95,7 +95,8 @@ fn main() {
 
 	// Splitting by str
 	println!("Split greeting: {:?}", greeting.split(", HELLO WORLD,").collect::<Vec<&str>>());
-
+    println!("Greetings : {}",greeting);
+    let greeting="Hello How are you";
 	// Splitting by function
 	println!("Split greeting: {:?}", greeting.split(char::is_uppercase).collect::<Vec<&str>>());
 
