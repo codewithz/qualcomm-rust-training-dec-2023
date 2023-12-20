@@ -76,6 +76,15 @@ fn main() {
 	coffees.append(&mut more_coffees);
 	println!("Coffees: {:?}\n", coffees);
 
+    let mut one =vec![1,2,3];
+    let two=vec![4,5];
+    println!("Before Extend: {:?}",one);
+    one.extend(two.iter().cloned());
+
+    println!("After Extend: {:?}",one);
+    println!("Two : {:?}",two);
+
+
 	// Note that "append" alters both vectors -> It removes and adds
 	println!("More Coffees Vec: {:?}\n", more_coffees);
 
