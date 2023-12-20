@@ -1,0 +1,1 @@
+E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\collections\iterators\target\debug\iterators.exe: E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\collections\iterators\src\main.rs
