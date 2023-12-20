@@ -64,8 +64,8 @@ fn main() {
 	// Using a custom type as a key
 
 	let mut custom_key_map = HashMap::from([
-		(Coffee{id: 1000, count: 5}, "Coffee1"),
 		(Coffee{id: 2000, count: 2}, "Coffee2"),
+		(Coffee{id: 1000, count: 5}, "Coffee1"),
 		(Coffee{id: 3000, count: 1}, "Coffee3"),
 	]);
 
@@ -86,8 +86,8 @@ fn main() {
 	// BTreeMap
 
 	let mut coffee_descriptions = BTreeMap::from([
-		(Coffee{id: 3000, count: 1}, "Medium, fruity"),
 		(Coffee{id: 2000, count: 2}, "Ethiopian blend"),
+		(Coffee{id: 3000, count: 1}, "Medium, fruity"),
 		(Coffee{id: 1000, count: 5}, "Bold, rich flavor"),
 	]);
 	println!("BTreeMap sorting: {:?}\n", coffee_descriptions);
@@ -103,7 +103,7 @@ fn main() {
 
 	println!("After removal: {:?}\n", coffee_descriptions);
 
-	coffee_descriptions.insert(Coffee{id: 6000, count: 50}, "Dark, nutty");
+	coffee_descriptions.insert(Coffee{id: 6000, count: 1}, "Dark, nutty");
 
 	println!("After insertion: {:?}\n", coffee_descriptions);
 }
