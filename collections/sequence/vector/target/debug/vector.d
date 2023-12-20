@@ -1,0 +1,1 @@
+E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\collections\sequence\vector\target\debug\vector.exe: E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\collections\sequence\vector\src\main.rs
