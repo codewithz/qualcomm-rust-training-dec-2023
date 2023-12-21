@@ -1,4 +1,4 @@
-use std::{thread, time::Duration, rc::Rc};
+use std::{thread, time::Duration, rc::Rc, sync::Arc};
 
 
 fn main() {
@@ -57,7 +57,7 @@ fn main() {
         // one.join().unwrap();
         // three.join().unwrap();
 
-        let mut data=Rc::new(  vec![1,2,3]);
+        let mut data=Arc::new(  vec![1,2,3]);
         
       
 
@@ -69,7 +69,7 @@ fn main() {
             });
         }
 
-    
+        thread::sleep(Duration::from_millis((50)))
 
 }
 
@@ -80,3 +80,12 @@ fn main() {
 // Reason : As the error message mentions, Rc cannot be sent between threads safely.
 //  This is because the internal reference count is not maintained in a thread-safe manner
 //  and can have a data race.
+
+
+// cannot borrow data in an `Arc` as mutable
+// trait `DerefMut` is required to modify through a dereference, but it is not 
+
+// Reason:Arc<T> by default has immutable contents. 
+// It allows the sharing of data between threads, 
+// but shared mutable data is unsafe—and when threads 
+// are involved—can cause data races!
