@@ -1,0 +1,10 @@
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\libmemoffset-1f7ff5ec99c7dd39.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\raw_field.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\offset_of.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\span_of.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\libmemoffset-1f7ff5ec99c7dd39.rlib: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\raw_field.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\offset_of.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\span_of.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\memoffset-1f7ff5ec99c7dd39.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\raw_field.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\offset_of.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\span_of.rs
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\raw_field.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\offset_of.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.0\src\span_of.rs:

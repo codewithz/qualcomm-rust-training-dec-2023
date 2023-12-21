@@ -1,0 +1,11 @@
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\libgif-443d1a76b9f8f2a2.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\gif-443d1a76b9f8f2a2.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md:

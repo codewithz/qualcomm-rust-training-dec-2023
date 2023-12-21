@@ -1,0 +1,10 @@
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\libcrc32fast-adc6bb78d52a3c64.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\image-io\target\debug\deps\crc32fast-adc6bb78d52a3c64.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs:
