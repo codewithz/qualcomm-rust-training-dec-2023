@@ -1,4 +1,4 @@
-use std::{thread, time::Duration, rc::Rc, sync::Arc};
+use std::{thread, time::Duration, rc::Rc, sync::{Arc, Mutex}};
 
 
 fn main() {
@@ -57,7 +57,7 @@ fn main() {
         // one.join().unwrap();
         // three.join().unwrap();
 
-        let mut data=Arc::new(  vec![1,2,3]);
+        let mut data=Arc::new(  Mutex::new(vec![1,2,3]));
         
       
 
@@ -65,11 +65,14 @@ fn main() {
             // Create a new owned reference 
             let data_ref=data.clone();
             thread::spawn(move ||{
-                data_ref[0]+=i;
+                let mut data=data_ref.lock().unwrap();
+                data[0]+=i;
             });
         }
 
-        thread::sleep(Duration::from_millis((50)))
+        thread::sleep(Duration::from_millis((50)));
+
+        println!("Data : {:?}",*data.lock().unwrap());
 
 }
 
