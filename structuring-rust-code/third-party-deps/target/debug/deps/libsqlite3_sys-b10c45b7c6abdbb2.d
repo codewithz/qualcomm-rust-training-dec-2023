@@ -1,0 +1,9 @@
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\structuring-rust-code\third-party-deps\target\debug\deps\liblibsqlite3_sys-b10c45b7c6abdbb2.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\error.rs E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\structuring-rust-code\third-party-deps\target\debug\build\libsqlite3-sys-47b73254b9b394f3\out/bindgen.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\structuring-rust-code\third-party-deps\target\debug\deps\libsqlite3_sys-b10c45b7c6abdbb2.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\error.rs E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\structuring-rust-code\third-party-deps\target\debug\build\libsqlite3-sys-47b73254b9b394f3\out/bindgen.rs
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsqlite3-sys-0.27.0\src\error.rs:
+E:\Local\ d\Zartab\Trainings\2023\B-18\ Qualcomm\ Rust\ Training\ December\ 2023\rust-training\structuring-rust-code\third-party-deps\target\debug\build\libsqlite3-sys-47b73254b9b394f3\out/bindgen.rs:
+
+# env-dep:OUT_DIR=E:\\Local d\\Zartab\\Trainings\\2023\\B-18 Qualcomm Rust Training December 2023\\rust-training\\structuring-rust-code\\third-party-deps\\target\\debug\\build\\libsqlite3-sys-47b73254b9b394f3\\out
