@@ -1,9 +1,8 @@
 use regex::Regex;
 
 fn main() {
-    let word_list=vec!["sapwood", "rosewood", "logwood",
-             "teakwood", "plywood", "redwood"];
-    let pattern=r"(ply|log)wood";
+    let word_list=vec!["9999912345","1234567890","12345","987543212","98701234","7713045261"];
+    let pattern=r"[6-9]{1}\d{9}";
 
     let regex=Regex::new(pattern).expect("Failed to create regex");
 
@@ -111,6 +110,22 @@ fn main() {
     // let word_list=vec!["https://website", "http://website",
     //          "httpss://website", "httpx://website", "httpxx://website"];
     // let pattern=r"https?://website";
+// -----------------------------------------------------
+// Pattern and Pipe Symbol
+    // let word_list=vec!["sapwood", "rosewood", "logwood",
+    //          "teakwood", "plywood", "redwood"];
+    // let pattern=r"(ply|log)wood";
+// -----------------------------------------------------
+// Email Task
+    // let word_list=vec![
+    //                     "zartab@codewithz.com",
+    //                     "zartab.n@uni.edu",
+    //                     "zartab-n-1312@my-company.net"];
+    // let pattern=r"^[A-Za-z][a-zA-Z_.]*@[A-Za-z][A-Za-z0-9-.]*\.(com|edu|net|org)";
+// -----------------------------------------------------
+// Mobile Task
+    // let word_list=vec!["9999912345","1234567890","12345","987543212","98701234","7713045261"];
+    // let pattern=r"[6-9]{1}\d{9}";
 // -----------------------------------------------------
 
 
