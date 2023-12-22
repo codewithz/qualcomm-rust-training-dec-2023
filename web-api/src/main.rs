@@ -1,4 +1,4 @@
-use warp::{http,Filter};
+use warp::{http,Filter, filters::body::json};
 use parking_lot::{RwLock};
 use std::collections::HashMap;
 use std::sync::Arc;
@@ -42,6 +42,19 @@ async fn add_grocery_list_item(
     item:Item,
     store:Store
 ) -> Result<impl warp::Reply,warp::Rejection>{
+    let r=store
+            .grocery_list
+            .write()
+            .insert(item.name,item.quantity);
+    
+    Ok(warp::reply::with_status("Added Items to Grocery List",
+     http::StatusCode::CREATED))
+}
+
+async fn get_grocery_list(
+    store:Store
+) -> Result<impl warp::Reply, warp::Rejection> {
+
     let r=store.grocery_list.read();
     Ok(warp::reply::json(&*r))
 }
@@ -67,9 +80,17 @@ async fn main() {
                                                                .and(json_body())
                                                                .and(store_filter.clone())
                                                                .and_then(add_grocery_list_item);
+    let get_items=warp::get()
+                                                               .and(warp::path("v1"))
+                                                               .and(warp::path("groceries"))
+                                                               .and(warp::path::end())
+                                                               .and(store_filter.clone())
+                                                               .and_then(get_grocery_list);
+
+    let routes= add_items.or(get_items);
 
 
-    warp::serve(add_items)
+    warp::serve(routes)
         .run(([127,0,0,1],3030))
         .await;
 }
