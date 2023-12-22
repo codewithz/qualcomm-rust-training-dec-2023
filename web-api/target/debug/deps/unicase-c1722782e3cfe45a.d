@@ -1,0 +1,10 @@
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\web-api\target\debug\deps\libunicase-c1722782e3cfe45a.rmeta: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\ascii.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\map.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\web-api\target\debug\deps\libunicase-c1722782e3cfe45a.rlib: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\ascii.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\map.rs
+
+E:\Local d\Zartab\Trainings\2023\B-18 Qualcomm Rust Training December 2023\rust-training\web-api\target\debug\deps\unicase-c1722782e3cfe45a.d: C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\lib.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\ascii.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\mod.rs C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\map.rs
+
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\lib.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\ascii.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\mod.rs:
+C:\Users\VICTUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicase-2.7.0\src\unicode\map.rs:
