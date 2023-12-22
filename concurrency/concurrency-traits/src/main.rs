@@ -1,4 +1,4 @@
-use std::{sync::mpsc, thread, time::Duration};
+use std::{sync::{mpsc, Mutex}, thread, time::Duration};
 
 // The Coffee struct implicitly implements Send because i32 and String type is Send
 // The Coffee struct implicitly implements Sync because i32 and String type is Sync
@@ -8,6 +8,20 @@ struct Coffee{
     count:i32,
     name:String
 }
+
+struct MyType{
+    data: Mutex<i32>
+}
+
+unsafe impl  Send for MyType {}
+unsafe impl  Sync for MyType {}
+
+// unsafe keyword is used to indicate code that 
+// is not subject to the usual safety guarantees provided by the compiler. 
+
+
+
+
 
 fn main() {
 //    Message Passing between Threads 
